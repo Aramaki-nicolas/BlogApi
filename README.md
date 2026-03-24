@@ -78,7 +78,7 @@ Password: (leave empty)
 
 ---
 
-## 💡 Examples
+##  Examples
 
 **Create a post**
 ```bash
