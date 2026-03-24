@@ -15,7 +15,7 @@ A simple RESTful API for a personal blogging platform built with Spring Boot. Su
 
 ---
 
-## 📁Project Structure
+## Project Structure
 
 ```
 src/main/java/com/blog/blogapi/
