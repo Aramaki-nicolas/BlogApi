@@ -1,4 +1,4 @@
-# 📝 Blog API
+# Blog API
 
 A simple RESTful API for a personal blogging platform built with Spring Boot. Supports full CRUD operations and search filtering.
 
@@ -6,7 +6,7 @@ A simple RESTful API for a personal blogging platform built with Spring Boot. Su
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Java 17**
 - **Spring Boot 3.x**
@@ -15,7 +15,7 @@ A simple RESTful API for a personal blogging platform built with Spring Boot. Su
 
 ---
 
-## 📁 Project Structure
+## 📁Project Structure
 
 ```
 src/main/java/com/blog/blogapi/
@@ -37,7 +37,7 @@ src/main/resources/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 **1. Clone the repository**
 ```bash
